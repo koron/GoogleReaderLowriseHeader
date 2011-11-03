@@ -1,5 +1,5 @@
-Google Reader Lowrise Header
-============================
+Lowrise Header for Google Reader
+================================
 
 WHAT IS THIS
 ------------
