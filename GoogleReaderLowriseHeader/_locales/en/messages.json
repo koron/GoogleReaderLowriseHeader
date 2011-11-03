@@ -1,0 +1,10 @@
+{
+    "extName": {
+        "message": "Google Reader Lowrise Header",
+        "description": "Extension name."
+    },
+    "extDesc": {
+        "message": "Make google reader's header lowrise.",
+        "description": "Extension description."
+    }
+}

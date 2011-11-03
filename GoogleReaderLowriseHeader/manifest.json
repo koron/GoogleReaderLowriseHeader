@@ -1,0 +1,21 @@
+{
+  "name": "__MSG_extName__",
+  "version": "1.0",
+  "description": "__MSG_extDesc__",
+  "content_scripts": [
+    {
+      "matches": [
+        "http://www.google.com/reader/*",
+        "https://www.google.com/reader/*",
+        "http://www.google.co.jp/reader/*",
+        "https://www.google.co.jp/reader/*"
+      ],
+      "css": [
+        "lowriseheader.css"
+      ]
+    }
+  ],
+  "default_locale": "en",
+  "permissions": [
+  ]
+}

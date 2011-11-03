@@ -1,0 +1,16 @@
+div#top-bar {
+  height: 40px;
+}
+div#search {
+  padding: 5px 0px;
+}
+
+div#viewer-header,
+div#lhn-add-subscription-section {
+  height: 40px;
+}
+
+div#viewer-container {
+  border-left: 1px solid #EBEBEB;
+}
+/* vim:set ts=8 sts=2 sw=2 tw=0 et: */

@@ -1,0 +1,10 @@
+{
+    "extName": {
+        "message": "Google Readerのヘッダーを低くする拡張機能",
+        "description": "Extension name."
+    },
+    "extDesc": {
+        "message": "やけに高すぎるGoogle Readerのヘッダー部分を低くする拡張機能です。",
+        "description": "Extension description."
+    }
+}

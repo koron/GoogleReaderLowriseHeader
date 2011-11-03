@@ -1,0 +1,13 @@
+Google Reader Lowrise Header
+============================
+
+WHAT IS THIS
+------------
+Chrome extension to make google reader's header *LOWRISE*.
+
+  * Make header lowrise.
+  * Add a separator line between content list and view.
+
+AUTHOR
+------
+MURAOKA Taro <koron.kaoriya@gmail.com>
