@@ -6,6 +6,11 @@ WHAT IS THIS
 Chrome extension to make google reader's header *LOWRISE*.
 
   * Make header lowrise.
+    * "top-bar"
+    * "viewer-header"
+    * "sections-header"
+    * "lhn-add-subscription-section"
+  * Hide "tilte-and-status-holder".
   * Add a separator line between content list and view.
 
 AUTHOR
