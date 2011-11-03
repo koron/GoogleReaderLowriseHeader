@@ -6,11 +6,20 @@ div#search {
 }
 
 div#viewer-header,
-div#lhn-add-subscription-section {
+div#lhn-add-subscription-section,
+div#sections-header {
   height: 40px;
+}
+
+div#title-and-status-holder {
+  display: none;
+}
+div#entries {
+  border-top: 0px;
 }
 
 div#viewer-container {
   border-left: 1px solid #EBEBEB;
 }
+
 /* vim:set ts=8 sts=2 sw=2 tw=0 et: */
