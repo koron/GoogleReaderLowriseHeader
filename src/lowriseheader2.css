@@ -1,0 +1,82 @@
+div#viewer-container {
+  border-left: 1px solid #EBEBEB;
+}
+
+div#title-and-status-holder {
+  display: none;
+}
+
+span#lhn-add-subscription {
+  top: 18px !important;
+}
+div#lhn-add-subscription-section {
+  height: 40px !important;
+  border-bottom: 1px solid #EBEBEB !important;
+}
+
+div#gb {
+  height: 70px !important;
+}
+
+div#gbx3 {
+  height: 25px !important;
+}
+
+div#gbx1 {
+  top: 25px !important;
+  height: 45px !important;
+}
+
+div#gbzw {
+  margin-left: 2px !important;
+  height: 25px !important;
+}
+
+div#gbz {
+  height: 25px !important;
+}
+
+ol#gbzc {
+  height: 26px !important;
+}
+
+#gbzw li.gbt {
+  line-height: 20px !important;
+}
+
+div#gbq {
+  top: 25px !important;
+}
+
+div#gbq1 {
+  margin-left: 16px !important;
+  height: 44px !important;
+}
+
+span#gbql {
+  background-position: 0 -186px;
+  height: 37px !important;
+  width: 95px !important;
+}
+
+div#gbqlw {
+  height: 44px !important;
+}
+
+div#gbq2 {
+  margin-left: 176px !important;
+  padding-top: 8px !important;
+}
+
+div#gbu {
+  top: 25px !important;
+  margin-right: 16px !important;
+  padding-top: 8px !important;
+  padding-bottom: 6px !important;
+}
+
+#gbu li.gbt {
+  margin-left: 6px !important;
+}
+
+/* vim:set ts=8 sts=2 sw=2 tw=0 et: */

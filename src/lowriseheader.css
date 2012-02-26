@@ -22,49 +22,4 @@ div#viewer-container {
   border-left: 1px solid #EBEBEB;
 }
 
-/*
- * After Feb-2012 Version.
- */
-
-/* Toolbar */
-#gb div#gbx1 {
-  height: 44px;
-}
-
-/* Reader Toolbar */
-div#gb {
-  height: 72px;
-}
-
-/* Google logo */
-div.gbgt#gbqlw {
-  height: 40px;
-}
-
-/* search box */
-#gb #gbw #gbq div#gbq2 {
-  padding-top: 7px;
-}
-
-/* User info */
-#gb div#gbu {
-  padding-top: 7px;
-  padding-bottom: 7px;
-}
-
-/* Google reader logo */
-#logo-section + div#lhn-add-subscription-section {
-  height: 40px;
-}
-
-/* Subscription button */
-#logo-section + #lhn-add-subscription-section span#lhn-add-subscription {
-  top: 18px;
-}
-
-div#logo-section {
-  padding-top: 4px;
-  padding-bottom: 5px;
-}
-
 /* vim:set ts=8 sts=2 sw=2 tw=0 et: */
