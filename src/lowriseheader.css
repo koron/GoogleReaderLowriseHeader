@@ -32,13 +32,13 @@ div#viewer-container {
 }
 
 /* Reader Toolbar */
-div.gbem#gb {
+div#gb {
   height: 72px;
 }
 
 /* Google logo */
 div.gbgt#gbqlw {
-  height: 48px;
+  height: 40px;
 }
 
 /* search box */
